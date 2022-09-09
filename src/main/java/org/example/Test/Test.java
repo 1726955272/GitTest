@@ -7,5 +7,6 @@ public class Test {
         System.out.println("这是版本测试3");
         System.out.println("奕悟，哥们在这给你说唱");
         System.out.println("芝士雪豹2");
+        System.out.println("从北京到了上海");
     }
 }
